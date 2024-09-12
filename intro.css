@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(15, 15, 15);
+}
+
+.toplink{
+    color: gray;
+    cursor: pointer;
+    padding-left: 10px;
+    font-size: 20px;
+}
+
+.big{
+    font-weight: 600;
+    font-size: 48px;
+}
